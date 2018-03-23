@@ -22,6 +22,7 @@ int main(){
         printf("\nTercera letra %c.\n",z);
         printf("\nCuarta letra %c.\n",t);
         printf("\nQuinta letra %c.\n",u);
+        printf("\nQuinta letra %c.\n",u);
         
         //kasksao
         return 0;
